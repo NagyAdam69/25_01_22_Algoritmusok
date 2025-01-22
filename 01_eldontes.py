@@ -14,7 +14,9 @@ while index < len(lista):
     index = index + 1
 
 if len(oszhato_harommal) > 0:
-    print(f'Van a listában hárommal osztható szám, amik a {igazak}.')
+    print(f'Van a listában hárommal osztható szám, amik a {oszhato_harommal}.')
 else:
     print('Nincs a listában hárommal osztható szám.')
+    
+    
     
